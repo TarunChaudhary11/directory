@@ -1,4 +1,5 @@
 Class multiple{
 
 welcome
+hello
 }
